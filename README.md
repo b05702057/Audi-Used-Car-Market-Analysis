@@ -14,6 +14,6 @@ For example, analyze the correlation between the mileage and the price of the us
 * Import the file "Audi Used Cars Regression Analysis.R" into Rstudio and run each command in the file
 
 ### Note
+* The detailed statistical analysis can be seen in the report.
 * The webpage of Audi is constantly revised, and this may cause the web-crawler to break down.  
 If the situation happens, please notify me, and I will fix the problems as soon as possible.
-* The detailed statistical analysis can be seen in the report.
