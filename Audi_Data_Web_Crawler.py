@@ -88,5 +88,3 @@ for i in href_list: # 透過中古車型號，配對車相同車款的原價
 column_name = ['Model', 'Days', 'Mileage(km)', 'Secondhand Price(NT$)', 'Original Price(NT$)']
 test = pd.DataFrame(columns = column_name, data = information_list) # 轉換為矩陣形式
 test.to_csv('/Users/lijicheng/Downloads/履歷表/奧迪福斯資料分析/result.csv', encoding = 'utf_8_sig') # 存成csv檔，輸出結果會有千分位，要用excel解決
-
-
